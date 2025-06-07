@@ -19,8 +19,8 @@ Mentor: Neela Santhosh
 
 ---
 
-## Task 3 – END-TO-END DATA SCIENCE PROJECT  
-**Project Title**: Smart Resume Analyzer Using NLP and Flask
+## **Project Title**: 
+Smart Resume Analyzer Using NLP and Flask
 
 ---
 
