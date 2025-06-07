@@ -103,7 +103,9 @@ python-dateutil       # Date parsing utility
 ## Exploratory Results & User Interface
 
 ### UI Screenshot – Web Interface:
-
+![Image](https://github.com/user-attachments/assets/d2610340-5bbb-45b7-8a38-bc66ccb6d36f)
+![Image](https://github.com/user-attachments/assets/811e2b5c-a86c-4fd8-a055-1e16ebee805e)
+![Image](https://github.com/user-attachments/assets/b89b3207-86f9-4cb2-be9a-f909e50721a1)
 
 ### Sample Output – Resume Match Ranking
 
